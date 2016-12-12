@@ -1,2 +1,1 @@
-# Diary
-日记
+# Dairy
